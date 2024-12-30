@@ -88,7 +88,7 @@ contract UnstoppableChallenge is Test {
     }
 
     /**
-     * CODE YOUR SOLUTION HERE
+     * CODE YOUR SOLUTION HERE I will do it
      */
     function test_unstoppable() public checkSolvedByPlayer {
         
